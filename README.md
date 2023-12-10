@@ -1,7 +1,7 @@
 <h2>Chat application</h2>
 <h5>This application made using bootstrap,PHP and Mysql </h5>
-![Screenshot (108)](https://github.com/tonytverma/chat_site/assets/82827111/e182ec66-84c2-4a5d-af48-6ee46dd2e1ed)
-![Screenshot (109)](https://github.com/tonytverma/chat_site/assets/82827111/06bab5a7-1775-4cbd-abe0-a829eb4046e6)
+<img src="https://github.com/tonytverma/chat_site/assets/82827111/e182ec66-84c2-4a5d-af48-6ee46dd2e1ed" alt="Project pic">
+<img src="https://github.com/tonytverma/chat_site/assets/82827111/06bab5a7-1775-4cbd-abe0-a829eb4046e6" alt="Project pic">
 
 <h3>Features</h3>
 <ol>
